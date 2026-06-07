@@ -14,25 +14,6 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
-    right: 
-      - text: "Research Reports"
-        menu: 
-          - text: "Bias & Variance Tradeoff and BLUE"
-            href: Research_Report_1.qmd
-          - text: "Ensemble Learning Techniques for Fair Classification"
-            href: Research_Report_2.qmd
-      - text: "Projects"
-        menu:
-          - text: "Conditional Probability Problem"
-            href: Applied_Probability_Die_Roll.qmd
-          - text: "Congestion Pricing Time Series Analysis"
-            href: Congestion_Pricing_TS2.qmd
-          - text: "Electoral College Analysis"
-            href: Electoral_Process.qmd
-          - text: "Home Pricing Prediction Competition"
-            href: Home_Pricing_Competition.qmd
-          - text: "NHL Shot Attempts Time Series Analysis"
-            href: NHL_Shot_Analysis_TS.qmd
 
 format:
   html:
@@ -41,5 +22,3 @@ format:
 
 editor:
   mode: source
-
-python: C:/Users/sethk/anaconda3/envs/lstm/python.exe
